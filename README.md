@@ -7,7 +7,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Vulnerability Management Program Implementation](https://github.com/fagyemang5387-web/Vulnerability-Management)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-- **[Vulnerability Management Program Implementation](https://github.com/fagyemang5387-web/Vulnerability-Management)**
+- **[STIG Remediation (WN10-AU-000500)](https://github.com/fagyemang5387-web/-STIG-Remediation-Windows-Application-Log-Size)**
 
 
 ## 🚨 Threat Hunting and Security Operations
