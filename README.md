@@ -13,6 +13,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/fagyemang5387-web/Threat-Hunting-Scenario-Tor-)**
 - **[Potential-Impossible-Travel](https://github.com/fagyemang5387-web/Potential-Impossible-Travel)**
 - **[Data-Exfil-Threat-Hunt-On-Windows](https://github.com/fagyemang5387-web/-Data-Exfil-Threat-Hunt-On-Windows-VM)**
+- **[Threat-Hunt-Device-Exposed-To-Internet](https://github.com/fagyemang5387-web/-Data-Exfil-Threat-Hunt-On-Windows-VM)**
 
 <hr/>
 
